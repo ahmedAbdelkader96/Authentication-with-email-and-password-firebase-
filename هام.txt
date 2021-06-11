@@ -1,0 +1,9 @@
+  firebase_database:
+  http: ^0.13.3
+  provider:
+  image_picker:
+  toast:
+  firebase_auth:
+  firebase_core:
+  cloud_firestore:
+  flutter_custom_clippers:
